@@ -651,9 +651,29 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #121212!important;
+    color: #121212;
 }
 
+.titre4{
+    font-style: italic;
+    color: #585555;
+}
+
+.titre{
+    color:#463F3F;
+}
+
+.identifications{
+    color:#5C5757; 
+}
+
+h5{
+    font-weight: bold;
+}
+
+h6{
+    font-size: 20px;
+}
 .container {
     max-width: 1000px;
 }
